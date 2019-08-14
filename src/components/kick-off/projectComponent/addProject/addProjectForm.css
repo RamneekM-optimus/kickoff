@@ -1,0 +1,17 @@
+.form-style{
+    margin:20px;
+}
+/* .form-style input{
+    margin-left:20px;
+    margin:5px;
+} */
+
+.form-group h6{
+    float:left;
+    text-align: left;
+}
+.form table{
+    width: 100%; 
+    margin:auto;
+
+}

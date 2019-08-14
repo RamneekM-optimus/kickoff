@@ -1,0 +1,53 @@
+.input-group-prepend{
+    padding:10px;
+}
+.input-group-prepend input{
+    width: 300px;
+    margin-left: 10px;
+}
+#basic-addon3-id{
+    width:140px;
+}
+.bootstrap-select{
+    margin-left:10px;
+}
+#std-code{
+    width:60px;
+    margin-left: 10px;
+}
+#std-number{
+    width:300px;
+    margin-left: 10px;
+}
+.btn-primary {
+    color: #000000;
+    background:none;
+}
+.btn-primary:hover {
+    color: #000000;
+    background:none;
+}
+#sub-customer{
+    
+        
+        font-size: 18px;
+        text-align: center;
+        cursor: pointer;
+        outline: none;
+        color: #fff;
+        background-color: rgb(182, 7, 37);
+        border: none;
+        height: 38px;
+        border-radius: 4px;
+        width: 130px;
+      
+}
+#custom-dropdown{
+    margin-left: 2px;
+}
+.modal-body{
+    margin-left:2px;
+}
+.filter-customer{
+    width:60%;
+}

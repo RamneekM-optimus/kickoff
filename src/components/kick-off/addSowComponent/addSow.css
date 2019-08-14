@@ -1,0 +1,30 @@
+
+#form{
+
+    padding: 10%;
+}
+
+#exampleFormControlTextarea1{
+
+    width: 116%;
+    margin-left: 6px;
+}
+
+/* #fixedcost{
+    display: block;
+} */
+
+
+#timeandmaterial{
+
+    display: none;
+}
+
+#invoice{
+    margin-left: 6px;
+}
+
+.label{
+    display: flex;
+    color: black;
+}

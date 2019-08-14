@@ -1,0 +1,19 @@
+#addicon   { position: relative;
+    top: 51%;
+}
+
+
+@media screen and (min-width: 1066px){
+
+    #rate {
+        position: relative;
+        margin-top: 31px;
+    }
+
+    #ratelabel {
+        position: absolute;
+        top: -80%;
+    }
+
+
+}
